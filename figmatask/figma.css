@@ -1,0 +1,354 @@
+ 
+    *{
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+       
+    }
+    .navu{
+        top: 0;
+    }
+ .navbar a{
+   color: rgb(204, 85, 85);
+}
+ 
+ .img1{
+    width: 650px;
+ }
+ .homeimg{ 
+    margin-left: 45rem;
+    margin-top: 50px;
+ }
+  .navbar a :hover{
+text-decoration: overline;
+ }
+   
+ .homejhone{
+   font-size: 180px; 
+position: absolute;
+line-height: 0.8;
+ 
+color: rgb(204, 85, 85);
+font-weight: 900;
+margin-left: 7rem;
+font-family: "Gruppo", sans-serif;
+}
+
+   .homeimg{
+      display: flex;
+     
+   }
+   .jacobimg{
+      margin-top: -50px;
+   }
+.subhomehead{
+   margin-top: -550px;
+   margin-left: 25%;
+}
+.photographer{
+   font-family: "Gruppo", sans-serif;
+   font-size: 50px;
+   font-weight: bolder;
+}
+.more{
+margin-top: 250px;
+margin-left: 100px;
+}
+ #workbutton{
+   cursor: pointer;
+   border: solid;
+   padding: 20px;
+   width: 105px;
+   font-size: medium;
+   border-radius: 50%;
+   text-align: center;
+   border-color: rgb(204, 85, 85) ;
+   background-color:  rgb(204, 85, 85);
+   color: white;
+ }
+.work{
+   margin-left: 220px;
+   margin-top: -50px;
+   position: absolute;
+}
+.servicehead{
+   margin-top: 100px;
+   font-family: "Gruppo", sans-serif;
+
+   text-align: center;
+}
+ 
+ .service1head{
+   margin-top: 50px;
+  }
+  #phto{
+   line-height: 2;
+   font-family: "Gruppo", sans-serif;
+   font-weight: 800;
+   text-align: center;
+  }
+  #phtotno{
+   color: rgb(204, 85, 85) ;
+  }
+.service1content{
+margin-left: 41%; 
+line-height: 2;
+}
+.loremcontent{
+   font-family: "Gruppo", sans-serif;
+font-weight: bolder;
+font-size: large;
+}
+.projectsubhead{
+   margin-top: 100px;
+}
+.sublatest{
+   font-size: 90px;
+   font-family: "Gruppo", sans-serif;
+margin-left: 100px;
+}
+#subworkhead{
+   font-weight: bolder;
+   color: rgb(204, 85, 85);
+}
+ #dancing{
+   margin-top: 100px;
+   font-family: "Gruppo", sans-serif;
+font-weight: bolder;
+margin-left: 100px;
+font-size: 25px;
+
+  }
+  #whitetext{
+   color: rgb(204, 85, 85) ;
+   font-size: 25px;
+
+  }
+  .dancingimges{
+   width: 600px;
+   margin-left: 100px;
+  }
+  #style{
+   margin-top: 120px;
+   margin-left: 300px;
+   font-family: "Gruppo", sans-serif;
+   font-weight: bolder;
+   font-size: 25px;
+
+  }
+  #fashion{
+   color: rgb(204, 85, 85);
+   font-size: 25px;
+  }
+  #nigga{
+   margin-left: 300px;
+   margin-top: 20px;
+   width: 400px;
+  }
+  .week{
+   margin-top: 100px;
+   font-family: "Gruppo", sans-serif;
+   font-size: 25px;
+   font-weight: bolder;
+
+   margin-left: 200px;
+  }
+  .fhns{
+   color: rgb(204, 85, 85);
+
+  }
+  .weekimgaes{
+   width: 350px;
+   margin-left: 200px;
+  }
+  .one{
+   margin-top: -120px;
+   margin-left: 200px;
+   font-family: "Gruppo", sans-serif;
+   font-size: 25px;
+   font-weight: bolder;
+  }
+  .eye{
+   color: rgb(204, 85, 85);
+
+  }
+  .oneeyeimages{
+   margin-left: 200px;
+   width: 350px;
+
+  }
+  .exibitionhead{
+   margin-top: 200px;
+   margin-left: 100px;
+   font-size: 70px;
+   font-family: "Gruppo", sans-serif;
+   font-weight: 900;
+
+  }
+#twentytwo
+  {
+   color: rgb(204, 85, 85);
+  }
+  .what{
+   margin-top: 200px;
+   margin-left: 100px;
+   font-size: 60px;
+   font-family: "Gruppo", sans-serif;
+   font-weight: 900;
+  }
+  #say{
+   color: rgb(204, 85, 85);
+
+  }
+  .workedwith{
+   margin-left: 100px;
+   font-family: "Gruppo", sans-serif;
+   font-weight: 900;
+
+  }
+  #fifty{
+   color: rgb(204, 85, 85);
+
+  }
+  .wwmbutton{
+   margin-left: 100px;
+   margin-top: 50px;
+border-radius: 40px;
+padding: 10px;
+border-color: rgb(204, 85, 85) ;
+color: rgb(204, 85, 85);
+background-color: white;
+font-family: "Gruppo", sans-serif;
+
+font-weight: 900;
+
+   }
+   .clientimg{
+      margin-top: 200px;
+      width: 120px;
+   }
+   .ireally{
+      margin-top: 200px;
+      margin-left: -200px;
+      font-family: "Gruppo", sans-serif;
+      font-weight: 900;
+
+   }
+   .clientreview{
+      margin-left: -200px;
+      font-family: "Gruppo", sans-serif;
+      font-weight: 900;
+   }
+   .homejhone1{
+      margin-top: 100px;
+      font-weight: 900;
+      font-size: 70px;
+   margin-left: 100px;
+   font-family: "Gruppo", sans-serif;
+   color:rgb(204, 85, 85) ;
+   }
+   .photographer1{
+      font-family: "Gruppo", sans-serif;
+      font-size: 20px;
+      margin-left: 100px;
+      font-weight: bolder;
+      text-align: center;
+   }
+
+   .aboutfooterhead{
+  
+      text-align: center;
+      font-family: "Gruppo", sans-serif;
+      font-size: 50px;
+      margin-top: 100px;
+   }
+   .exp{
+      margin-top: 100px;
+      color:rgb(204, 85, 85);
+      font-family: "Gruppo", sans-serif;
+font-weight: bolder;
+   }
+   .artdirp{
+      line-height: 2;
+      font-family: "Gruppo", sans-serif;
+      font-weight: bolder;
+   }
+   .feedhead{
+      margin-top: 100px;
+      color:rgb(204, 85, 85);
+      font-family: "Gruppo", sans-serif;
+font-weight: bolder;
+   }
+   @media (max-width:996px){
+      .homejhone{
+         margin-left: 5%;
+         font-size:  50px;
+         font-family: "Gruppo", sans-serif;
+      }
+  
+      .jacobimg{
+         width: 300px;
+         margin-left: -620px;
+      }
+      .more{
+         display: none;
+      }
+      .work{
+         display: none;
+      }
+      .photographer{
+         font-size: 10px;
+         margin-top: 320px;
+         margin-left:10%;
+      }
+      .servicehead{
+         margin-top: 300px;
+      }
+      .servicescontent{
+         float: left;
+      }
+      .sublatest{
+         text-align: center;
+      }
+      #style{
+         margin-left: 100px;
+      }
+      #nigga{
+         margin-left: 100px;
+      }
+      .week{
+         margin-left: 100px;
+      }
+      .weekimgaes{
+         margin-left: 100px;
+
+      }
+      .one{
+         margin-top: 150px;
+         margin-left: 100px;
+      }
+      .oneeyeimages{
+          margin-left: 100px;
+      }
+      .loremcontent{
+         font-size: 30px;
+         line-height: 01;
+      }
+      #phto{
+         font-size: 50px;
+      }
+      .workedwith{
+         font-size: 30px;
+      }
+      .wwmbutton{
+         font-size: 30px;
+         border: solid;
+      }
+      .ireally{
+         margin-left: 150px;
+         margin-top: -100px;
+      }
+      .clientreview{
+         margin-left: 0px;
+      }
+   }

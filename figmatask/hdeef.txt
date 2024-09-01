@@ -1,0 +1,22 @@
+  <section id="footer">
+  
+    <div class="row container-fluid">
+      <div class="col-6">
+
+        <h1 class="homejhone1">JACOB GRONBERG</h1>
+        <h2 class="photographer1">PHOTOGRAPHER & VISUAL ARTIST</h2>
+      </div>
+      <div class="col-6">
+        <div class="expierncehead">
+          <h2 class="exp">EXPIERIENCES</h2>
+        </div>
+        <div class="h5">
+          <h6 class="artdirp">ART DIRECTOR <br> JURY AWWARD <br>ART STUDY <br>CONTENT CREATOR <br>BLOGGER</h6>
+        </div>
+      </div>
+    </div>
+    <div class="col-6">
+     <h2 class="feedhead"> FEEDBACK</h2>
+    </div>
+
+  </section>
